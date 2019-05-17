@@ -1,5 +1,5 @@
 <?php
-$folder = "/webapp_that_takes_pictures/uploads/images/";
+$folder = "/asset-mgmt-ui/uploads/images/";
 $destinationFolder = $_SERVER['DOCUMENT_ROOT'] . $folder; // you may need to adjust to your server configuration
 $maxFileSize = 2 * 1024 * 1024;
 
